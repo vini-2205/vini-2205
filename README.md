@@ -1,4 +1,4 @@
-### Oii!! Bem-Vindo!!
+### Oii!! Seja bem-vindo!!
 
 - 🔭 Estou estudando Engenharia de Computação pelo CEFET-MG
 - 🌱 Aprendendo C++ e Python
