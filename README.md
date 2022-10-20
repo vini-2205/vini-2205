@@ -19,7 +19,6 @@
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
   ##
  
 <div> 
@@ -30,3 +29,4 @@
   ![Snake animation](https://github.com/vini-2205/vini-2205/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
