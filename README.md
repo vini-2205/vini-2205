@@ -1,7 +1,10 @@
 ### Oii!! Seja bem-vindo!!
 
-- 🔭 Estou estudando Engenharia de Computação pelo CEFET-MG
-- 🌱 Aprendendo C++ e Python
+- 🔭 Estudo Engenharia de Computação pelo CEFET-MG
+- 💻 Participação de estudos para Programação Competitiva
+- 🧪 Participo de Iniciação Científica na área de Modelagem 3D
+- 📰 Participo da Commit Jr. (Empresa Júnior), onde faço sites para algumas empresas em WordPress
+- 🌱 Aprendendo C++, Python e HTML
 - 📫 Contate-me pelo email: viniciuspinheiro2003@gmail.com
 
 ##
