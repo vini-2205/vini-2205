@@ -1,6 +1,6 @@
 ### Oii!! Bem-Vindo!!
 
-- 🔭 Estou estudano Engenharia de Computação pelo CEFET-MG
+- 🔭 Estou estudando Engenharia de Computação pelo CEFET-MG
 - 🌱 Aprendendo C++ e Python
 - 📫 Contate-me pelo email: viniciuspinheiro2003@gmail.com
 
